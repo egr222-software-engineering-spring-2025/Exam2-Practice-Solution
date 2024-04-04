@@ -18,12 +18,12 @@ public class Main {
 //        System.out.println("instantiating a new Bravo() - compile time error");
 //        Alpha y = new Bravo();  // The Bravo class does NOT have a default constructor so this generates a compile time error
 
-//        System.out.println();
-//        System.out.println("instantiating a new Bravo(\"z\")");
-//        Alpha z = new Bravo("z");   // The Bravo constructor having a String parameter does NOT explicitly call a parent constructor so the default constructor will be called
-
-//        System.out.println();
-//        System.out.println("instantiating a new Bravo(1)");
-//        Alpha p = new Bravo(1); // The Bravo constructor having an integer parameter DOES explicitly call the parent constructor having an integer parameter so the parent default constructor is NOT used
+        System.out.println();
+        System.out.println("instantiating a new Bravo(\"z\")");
+        Alpha z = new Bravo("z");   // The Bravo constructor having a String parameter does NOT explicitly call a parent constructor so the default constructor will be called
+//
+        System.out.println();
+        System.out.println("instantiating a new Bravo(1)");
+        Alpha p = new Bravo(1); // The Bravo constructor having an integer parameter DOES explicitly call the parent constructor having an integer parameter so the parent default constructor is NOT used
     }
 }
