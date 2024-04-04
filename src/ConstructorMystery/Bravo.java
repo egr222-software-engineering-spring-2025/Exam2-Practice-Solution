@@ -1,4 +1,4 @@
-package src.ConstructorMystery;
+package ConstructorMystery;
 
 public class Bravo extends Alpha {
     /*

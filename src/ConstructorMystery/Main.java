@@ -1,4 +1,4 @@
-package src.ConstructorMystery;/*
+package ConstructorMystery;/*
     Points to make
     1.  Show how instantiating using a default child constructor will NOT use (inherit) the super default constructor
         UNLESS there is a default constructor in the child (even if the static type is the super class) - uncomment line 14
