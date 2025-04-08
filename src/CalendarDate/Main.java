@@ -1,4 +1,4 @@
-package src.CalendarDate;
+package CalendarDate;
 
 public class Main {
     public static void main(String[] args) {

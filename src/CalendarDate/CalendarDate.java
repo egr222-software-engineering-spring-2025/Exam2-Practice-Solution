@@ -1,4 +1,4 @@
-package src.CalendarDate;
+package CalendarDate;
 
 public class CalendarDate implements Comparable<CalendarDate> {
     private int year;

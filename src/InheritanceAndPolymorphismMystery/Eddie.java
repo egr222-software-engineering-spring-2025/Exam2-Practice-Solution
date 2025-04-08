@@ -1,4 +1,4 @@
-package src.InheritanceAndPolymorphismMystery;
+package InheritanceAndPolymorphismMystery;
 
 public class Eddie extends Kurt {
     public void b() {

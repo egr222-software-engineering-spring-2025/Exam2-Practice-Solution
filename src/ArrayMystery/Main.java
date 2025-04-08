@@ -1,4 +1,4 @@
-package src.ArrayMystery;
+package ArrayMystery;
 
 public class Main {
     public static void arrayMystery5(int[] nums) {

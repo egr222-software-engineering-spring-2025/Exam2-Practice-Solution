@@ -1,4 +1,4 @@
-package src.CollectionMystery1;
+package CollectionMystery1;
 
 import java.util.*;
 

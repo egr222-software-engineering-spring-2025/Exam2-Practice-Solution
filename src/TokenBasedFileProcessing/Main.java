@@ -1,4 +1,4 @@
-package src.TokenBasedFileProcessing;
+package TokenBasedFileProcessing;
 
 import java.io.File;
 import java.io.FileNotFoundException;

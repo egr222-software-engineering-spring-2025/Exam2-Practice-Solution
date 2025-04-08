@@ -1,4 +1,4 @@
-package src.LineBasedFileProcessing;
+package LineBasedFileProcessing;
 
 import java.io.File;
 import java.io.FileNotFoundException;

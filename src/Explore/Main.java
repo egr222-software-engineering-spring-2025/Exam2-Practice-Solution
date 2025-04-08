@@ -1,4 +1,4 @@
-package src.Explore;
+package Explore;
 
 public class Main {
 

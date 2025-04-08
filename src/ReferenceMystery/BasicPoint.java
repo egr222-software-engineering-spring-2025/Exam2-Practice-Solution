@@ -1,4 +1,4 @@
-package src.ReferenceMystery;
+package ReferenceMystery;
 
 public class BasicPoint {
     int x;

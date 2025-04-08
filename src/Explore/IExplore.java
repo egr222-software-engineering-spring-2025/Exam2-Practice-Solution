@@ -1,4 +1,4 @@
-package src.Explore;
+package Explore;
 
 interface IExplore {
     Point origin = new Point(0,0);
